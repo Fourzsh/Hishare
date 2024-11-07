@@ -12,12 +12,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.function.BiConsumer;
 
-/**
- * 技术派价值一个亿的AI
- *
- * @author YiHui
- * @date 2023/6/9
- */
 @Service
 public class PaiAiDemoServiceImpl extends AbsChatService {
 

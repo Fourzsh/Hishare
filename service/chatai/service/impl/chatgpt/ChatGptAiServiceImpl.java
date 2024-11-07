@@ -14,10 +14,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.function.BiConsumer;
 
-/**
- * @author YiHui
- * @date 2023/6/12
- */
 @Slf4j
 @Service
 public class ChatGptAiServiceImpl extends AbsChatService {
